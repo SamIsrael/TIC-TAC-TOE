@@ -2,7 +2,7 @@
 
 ## <center>This is my first project on python. And in this project I will be creating a Tic Tac Toe game using user-defined functions. 
 
-## Let me walkthrough you the entire project.</center>
+## Let me walk you through the entire project.</center>
 
 
 
