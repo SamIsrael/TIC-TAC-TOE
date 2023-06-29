@@ -6,7 +6,7 @@
 
 
 
-### STEP 1 : Function that print outs the board.
+### Function that print outs the board.
 ```python
 from IPython.display import clear_output # To clear the screen between moves.
 
@@ -17,7 +17,7 @@ def display_board(board):
     print(board[1] + '|' + board[2] + '|' + board[3])
 ```
 
-### STEP 2 : Function that takes in a player input and assigns their marker as 'X' or 'O'.
+### Function that takes in a player input and assigns their marker as 'X' or 'O'.
 ```python
 def player_input():
     print("Player 1")
