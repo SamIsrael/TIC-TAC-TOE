@@ -1,8 +1,6 @@
 # TIC-TAC-TOE
 
-## <center>This is my first project on python. And in this project I will be creating a Tic Tac Toe game using user-defined functions. 
-
-## Let me walk you through the entire project.</center>
+ <center>This program/code can be used to create a TIC-TAC-TOE game. The code is based on python user-defined functions</center>
 
 
 
